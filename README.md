@@ -1,1 +1,1 @@
-# Loan Approvel EDA-Project
+# Loan Approval Project
